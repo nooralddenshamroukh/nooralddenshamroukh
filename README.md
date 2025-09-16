@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Advanced **React/Next.js best practices** and **real-world frontend project workflows****
 
-- 👨‍💻 All of my projects are available at [[GitHub Portfolio](https://github.com/nooralddenshamroukh)]([GitHub Portfolio](https://github.com/nooralddenshamroukh))
+- 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/nooralddenshamroukh)]
 
 - 💬 Ask me about ****Frontend development (React, Next.js)** | My background in **Machine Learning (AI Voice Conversion, Detection, Noise Cancellation)** | **System Architecture with Verilog** | **Networking: CCNA-level (routing, switching, protocols, configuration)**.**
 
 - 📫 How to reach me **noorelddin12@gmail.com**
 
-- 📄 Know about my experiences [[Resume (PDF)](your-resume-link-here)]([Resume (PDF)](your-resume-link-here))
+- 📄 Know about my experiences [[Resume (PDF)](NoorAldden_CV.pdf)]
 
 - ⚡ Fun fact **I can switch from **designing UIs in React** to **designing CPUs in Verilog** — from pixels on a screen to logic gates on a chip 😅.**
 
