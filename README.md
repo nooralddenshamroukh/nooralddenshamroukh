@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Advanced **React/Next.js best practices** and **real-world frontend project workflows****
 
-- 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/nooralddenshamroukh)]
+- 👨‍💻 All of my projects are available at [[github.com/nooralddenshamroukh](https://github.com/nooralddenshamroukh)]
 
 - 💬 Ask me about ****Frontend development (React, Next.js)** | My background in **Machine Learning (AI Voice Conversion, Detection, Noise Cancellation)** | **System Architecture with Verilog** | **Networking: CCNA-level (routing, switching, protocols, configuration)**.**
 
 - 📫 How to reach me **noorelddin12@gmail.com**
 
-- 📄 Know about my experiences [[Resume (PDF)](NoorAldden_CV.pdf)]
+- 📄 Know about my experiences [[NoorAldden_CV](NoorAldden_CV.pdf)]
 
 - ⚡ Fun fact **I can spend hours debugging a missing semicolon — but I still enjoy it!**
 
